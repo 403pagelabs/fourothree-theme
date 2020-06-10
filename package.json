@@ -13,5 +13,18 @@
     "@frontity/html2react": "^1.1.14",
     "frontity": "^1.4.2",
     "react-spinners": "^0.5.4"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/403pagelabs/fourothree-theme.git"
+  },
+  "author": "403page",
+  "bugs": {
+    "url": "https://github.com/403pagelabs/fourothree-theme/issues"
+  },
+  "homepage": "https://github.com/403pagelabs/fourothree-theme#readme"
 }

@@ -1,10 +1,9 @@
 import React from "react";
 import { styled, connect } from "frontity";
 import Link from "./link";
-import Logoimg from './logo.svg';
-import iconInsta from './instagram.svg';
-import iconTwitter from './twitter.svg';
-import iconGmail from './gmail.svg';
+import iconInsta from './images/instagram.svg';
+import iconTwitter from './images/twitter.svg';
+import iconGmail from './images/gmail.svg';
 
 // Component that provides scroll to top functionality
 const BackToTop = () => {

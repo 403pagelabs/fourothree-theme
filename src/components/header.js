@@ -7,7 +7,7 @@ import SearchModal from "./search/search-modal";
 import MobileSearchButton from "./mobile/search-button";
 import MobileMenuButton from "./mobile/menu-button";
 import MobileMenuModal from "./mobile/menu-modal";
-import Logoimg from './logo.svg';
+import Logoimg from './images/logo.svg';
 
 
 const Header = ({ state }) => {

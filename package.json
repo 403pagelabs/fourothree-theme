@@ -1,0 +1,17 @@
+{
+  "name": "fourothree-theme",
+  "version": "1.0.0",
+  "description": "The theme for 403page.com.",
+  "keywords": [
+    "frontity",
+    "frontity-fourothree-theme"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@frontity/components": "^1.1.14",
+    "@frontity/hooks": "^1.1.14",
+    "@frontity/html2react": "^1.1.14",
+    "frontity": "^1.4.2",
+    "react-spinners": "^0.5.4"
+  }
+}

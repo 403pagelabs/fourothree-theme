@@ -1,12 +1,12 @@
 {
-  "name": "fourothree-theme",
-  "version": "1.0.0",
+  "name": "@403page/fourothree-theme",
+  "version": "1.0.2",
   "description": "The theme for 403page.com.",
   "keywords": [
     "frontity",
     "frontity-fourothree-theme"
   ],
-  "license": "Apache-2.0",
+  "license": "GPL-2.0-only",
   "dependencies": {
     "@frontity/components": "^1.1.14",
     "@frontity/hooks": "^1.1.14",
@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/403pagelabs/fourothree-theme/issues"
   },
-  "homepage": "https://github.com/403pagelabs/fourothree-theme#readme"
+  "homepage": "https://github.com/403pagelabs/fourothree-theme#readme",
+  "devDependencies": {}
 }

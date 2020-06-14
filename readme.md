@@ -11,7 +11,7 @@
 **TO INSTALL:**
 Run this in your Frontity project:
 ```
-npm i @403page/fourothree-theme --save
+npm i @fourothreepage/fourothree-theme --save
 ```
 Then update your frontity.settings.js so that the package name is `fourothree-theme` (instead of whichever theme is set there already).
 

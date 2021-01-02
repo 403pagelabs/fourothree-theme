@@ -20,10 +20,10 @@ Head over to https://community.frontity.org/
 
 Github: https://github.com/403pagelabs/fourothree-theme
 
-Twitter: @403pagedotcom
+Twitter: https://twitter.com/403pagedotcom
 
-Instagram: 403pagedotcom
+Instagram: https://www.instagram.com/403pagedotcom/
 
 Email: labs@403page.com
 
-URL: 403page.com
+URL: https://403page.com

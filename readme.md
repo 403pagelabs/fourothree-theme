@@ -1,5 +1,5 @@
 # Frontity theme: fourothree-theme
-[![403Page Labs](https://403page.com/wp-content/uploads/2020/06/New-Project-1-1-e1591828114862.png)](https://403page.com)
+[![403Page Labs](https://403.ie/wp-content/uploads/2020/08/logo-b894ae9c0b08a6ab45e04e0f63d12959-1.svg)](https://403page.com)
 
 **Fourothree-theme** is a node package for [Frontity](https://community.frontity.org/) based on 403page.com. It started it's life as TwentyTwenty, an incredible port of the default Wordpress theme for Frontity by [Segun Adebayo](https://twitter.com/thesegunadebayo).
 
